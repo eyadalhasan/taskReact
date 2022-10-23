@@ -1,0 +1,10 @@
+label{
+    display: block;
+}
+textarea{
+    display: block;
+}
+.form{
+    border:1px dotted black;
+    padding:20px
+}
